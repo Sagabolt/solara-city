@@ -1,3 +1,5 @@
+// Solara City — an open-world crime game for make.fun gta6-01: a procedural
+// city with traffic, pedestrians, car theft and a police wanted system.
 // A working gta6-01 entry (Node 22, standard library only): the game is this directory's
 // game/ folder, plain static files a desktop browser loads offline (game/index.html and its ES
 // modules, no library and no network request), and the program hands it in. It copies game/ and
